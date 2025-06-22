@@ -1,6 +1,6 @@
 
 {
-  "name": "@blazecode/signal-server",
+  "name": "@drunkod/signal-server",
   "version": "1.0.0",
   "private": true,
   "scripts": {
